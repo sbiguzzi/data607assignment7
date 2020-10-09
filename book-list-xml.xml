@@ -1,0 +1,25 @@
+<?xml version = '1.0'?>
+
+<booktable>
+	<book1>
+		<title>The Name of the Wind</title>
+		<author1>Patrick Ruthfuss</author1>
+		<author2> </author2>
+		<genre>Sci-Fi</genre>
+		<year>2007</year>
+	</book1>
+	<book2>
+		<title>Salt: A World History</title>
+		<author1>Mark Kurlansky</author1>
+		<author2> </author2>
+		<genre>Nonfiction</genre>
+		<year>2003</year>
+	</book2>
+	<book3>
+		<title>Punching the Air</title>
+		<author1>Ibi Zoboi</author1>
+		<author2>Yusef Salaam</author2>
+		<genre>Young Adult</genre>
+		<year>2020</year>
+	</book3>
+</booktable>
