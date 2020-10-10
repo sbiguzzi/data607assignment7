@@ -1,0 +1,23 @@
+{
+	"book1":{
+		"Title": "The Name of the Wind",
+		"Author1": "Patrick Rothfuss",
+		"Author2": null,
+		"Genre": "Sci-Fi",
+		"Year": "2007"
+	},
+	"book2":{
+	  "Title": "Salt: A World History",
+	  "Author1": "Mark Kurlansky",
+	  "Author2": null,
+	  "Genre": "Nonfiction",
+	  "Year": "2003"
+	},
+	"book3":{
+	  "Title": "Punching the Air",
+	  "Author1": "Ibi Zoboi",
+	  "Author2": "Yusef Salaam",
+	  "Genre": "Young Adult",
+	  "Year": "2020"
+	}
+}
